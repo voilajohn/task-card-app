@@ -1,2 +1,2 @@
-# Angular-App-Skeleton
-An app framework for Angular set up from Sitepoint lessons
+# Angular-Taskcard-App
+An app for creating and marking tasks complete.
